@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+    border: 5px solid salmon;
+    height: 3rem;
+    background-color: indigo;
+  }
+.redes{
+  display: flex;
+  gap: 5px;
+  border-radius: 45%;
+}
